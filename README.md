@@ -17,3 +17,7 @@ https://youtu.be/8sXRyHI3bLw?si=WOmVRpp-8ErEVilk
 ## website source
 
 https://www.w3schools.com/html/html_basic.asp
+
+
+##
+I worked with a mentor who didn't help me with the code, but he did help me learn how to think like a developer. He also helped me think up my git push messages.
